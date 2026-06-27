@@ -3,41 +3,21 @@
 "AG00",NA,"Unknown","Espèces non ciblées, associées et dépendantes",NA,"OTHERS","OTHERS",NA,NA,0,1,0,1,NA
 "AG01",NA,"Black marlin and striped marlin","Marlin noir et marlin rayé","Makaira nigricans; Tetrapturus audax","BILLFISH","BILLFISH",NA,NA,1,1,0,1,0
 "AG02",NA,"Indo-Pacific sailfish and shortbill spearfish","Voilier indo-pacifique et makaire à rostre court","Istiophorus platypterus; Tetrapturus angustirostris","BILLFISH","BILLFISH",NA,NA,1,1,0,1,0
-"AG03",NA,"Marlins nei","Marlin rayé et makaires nca",NA,"BILLFISH","OTHERS",NA,NA,1,1,0,1,NA
-"AG04",NA,"Marlins, sailfish, spearfish nei","Makaires et marlins et voiliers nca",NA,"BILLFISH","OTHERS",NA,NA,1,1,0,1,NA
-"AG05",NA,"Frigate tuna and bullet tuna","Auxide et bonitou",NA,"TUNAS","OTHERS",NA,NA,1,1,0,1,NA
 "AG06",NA,"Kawakawa, frigate and bullet tunas","Thonine orientale, auxide et bonitou ","Euthynnus affinis; Auxis spp","TUNAS","NERITIC",NA,NA,1,1,0,1,0
 "AG07",NA,"Longtail tuna and kawakawa","Thon mignon et thonine orientale","Thunnus tonggol; Euthynnus affinis","TUNAS","NERITIC",NA,NA,1,1,0,1,0
 "AG09",NA,"Wahoo and seerfishes nei","Thazards nca",NA,"SEERFISH","OTHERS",NA,NA,1,1,0,1,NA
 "AG10",NA,"Skipjack tuna and kawakawa","Listao et thonine orientale","Katsuwonus pelamis; Euthynnus affinis","TUNAS","TUNAS_NEI",NA,NA,1,1,0,1,0
-"AG11",NA,"True tunas nei","Thons Thunnus nca",NA,"TUNAS","OTHERS",NA,NA,1,1,0,1,NA
-"AG12",NA,"Tuna-like fishes nei","Poissons type thon nca",NA,"TUNAS","OTHERS",NA,NA,1,1,0,1,NA
-"AG13",NA,"Tunas nei","Thonidés nca",NA,"TUNAS","OTHERS",NA,NA,1,1,0,1,NA
-"AG14",NA,"Billfish nei","Poissons epée nca",NA,"BILLFISH","OTHERS",NA,NA,1,1,0,1,NA
-"AG15",NA,"Dogfishes nei","Aiguillats nca",NA,"SHARKS","OTHERS",NA,NA,0,1,0,1,NA
-"AG16",NA,"Hammerhead sharks nei","Requins marteau nca",NA,"SHARKS","OTHERS",NA,NA,0,1,0,1,NA
-"AG17",NA,"Mako sharks","Taupes",NA,"SHARKS","OTHERS",NA,NA,0,1,0,1,NA
-"AG18",NA,"Rays, stingrays, mantas nei","Raies et pastenagues et mantes nca",NA,"SHARKS","OTHERS",NA,NA,0,1,0,1,NA
 "AG21",NA,"Sharks nei other than oceanic whitetip shark and blue shark","Espèces de requins autres que le requin océanique et le requin peau bleue","Selachimorpha (Pleurotremata); needs update","SHARKS","SHARKS",NA,NA,0,1,0,1,0
-"AG22",NA,"Sharks various nei","Requins divers nca",NA,"SHARKS","OTHERS",NA,NA,0,1,0,1,NA
-"AG23",NA,"Thresher sharks nei","Renards de mer nca",NA,"SHARKS","OTHERS",NA,NA,0,1,1,1,NA
-"AG24",NA,"Dolphinfishes, nei","Coryphènes nca",NA,"OTHERS","OTHERS",NA,NA,0,1,0,1,NA
-"AG26",NA,"Mackerels Indian, nei","Maquereaux Indo-pacifique nca",NA,"OTHERS","OTHERS",NA,NA,0,1,0,1,NA
 "AG27",NA,"Non-IOTC species","Poissons marins nca",NA,"OTHERS","OTHERS",NA,NA,0,1,0,1,NA
-"AG30",NA,"Mantas, devil rays nei","Mantes, diables de mer nca",NA,"SHARKS","OTHERS",NA,NA,0,1,0,1,NA
-"AG32",NA,"Barracudas","Brochets de mer",NA,"OTHERS","OTHERS",NA,NA,0,1,0,1,NA
 "AG35",NA,"Yellowfin tuna and skipjack tuna","Albacore et listao","Thunnus albacares; Katsuwonus pelamis","TUNAS","TROPICAL",NA,NA,1,1,0,1,0
 "AG38",NA,"Blue shark, shortfin mako, oceanic whitetip shark","Requin peau bleue, requin-taupe bleu et requin océanique","Prionace glauca; Isurus oxyrinchus; Carcharhinus longimanus","SHARKS","SHARKS",NA,NA,0,1,0,1,0
 "AG39",NA,"Yellowfin tuna; bigeye tuna; albacore; swordfish; marlins nei","Albacore, listao, patudo, germon, espadon, makaires nca",NA,"TUNAS","OTHERS",NA,NA,1,1,0,1,NA
 "AG40",NA,"Albacore, frigate tuna and bullet tuna","Germon, Auxide et bonitou",NA,"TUNAS","OTHERS",NA,NA,1,1,0,1,NA
 "AG45",NA,"Albacore, yellowfin tuna and bigeye tuna","Germon; Albacore; Patudo; Thon obèse",NA,"TUNAS","OTHERS",NA,NA,1,1,0,1,NA
 "AG47",NA,"Common dolphinfish and rainbow runner","Coryphène commune et comète saumon","Elagatis bipinnulata, Coryphaena hippurus","OTHERS","OTHERS",NA,NA,0,1,0,1,0
-"AG50",NA,"Sea turtles nei",NA,NA,"OTHERS","OTHERS",NA,NA,0,0,1,1,NA
-"AG51",NA,"Seabirds nei","Oiseaux de mer nca",NA,"OTHERS","SEABIRDS",NA,NA,0,0,1,1,0
-"AG70",NA,"Giant oceanic manta ray and Alfred manta (reef manta ray)",NA,NA,"SHARKS","OTHERS",NA,NA,0,1,1,1,NA
-"AG71",NA,"Devil rays nei",NA,NA,"SHARKS","OTHERS",NA,NA,0,1,1,1,NA
 "AGN",NA,"Angelshark","Ange de mer commun","Squatina squatina","SHARKS","SHARKS","Squatinidae","Squatiniformes",0,1,0,0,1
 "AG_CETACEANS",NA,"Cetaceans nei","Cétacés nca",NA,"OTHERS","CETACEANS",NA,NA,0,0,1,1,0
+"AG_SEABIRDS",NA,"Seabirds nei","Oiseaux de mer nca",NA,"OTHERS","SEABIRDS",NA,NA,0,0,1,1,0
 "ALB",NA,"Albacore","Germon","Thunnus alalunga","TUNAS","TEMPERATE","Scombridae","Scombroidei",1,1,0,0,1
 "ALI",NA,"Lancetfishes nei",NA,"Alepisaurus spp","OTHERS","OTHERS","Alepisauridae","Aulopiformes",0,1,0,1,1
 "ALM",NA,"Unicorn leatherjacket filefish","Bourse loulou","Aluterus monoceros","OTHERS","OTHERS","Monacanthidae","Tetraodontiformes",0,0,0,0,1
@@ -241,7 +221,7 @@
 "LIB",NA,"Brushtooth lizardfish","Anoli à grandes écailles","Saurida undosquamis","OTHERS","OTHERS","Synodontidae","Aulopiformes",0,0,0,0,1
 "LKV",NA,"Olive ridley turtle","Tortue olivatre","Lepidochelys olivacea","OTHERS","TURTLES","Cheloniidae","Testudines",0,0,1,0,1
 "LLL",NA,"Crested oarfish","Poisson-ruban licorne","Lophotus lacepede","OTHERS","OTHERS","Lophotidae","Lampriformes",0,1,0,0,1
-"LMA",NA,"Longfin mako","Petite taupe","Isurus paucus","SHARKS","SHARKS","Lamnidae","Lamniformes",0,1,0,0,1
+"LMA",NA,"Longfin mako","Petite taupe","Isurus paucus","SHARKS","SHARKS","Lamnidae","Lamniformes",0,1,1,0,1
 "LMD",NA,"Salmon shark","Requin-taupe saumon","Lamna ditropis","OTHERS","OTHERS","Lamnidae","Lamniformes",0,1,0,0,1
 "LOB",NA,"Tripletail","Croupia roche","Lobotes surinamensis","OTHERS","OTHERS","Lobotidae","Percoidei",0,1,0,0,1
 "LOT",NA,"Longtail tuna","Thon mignon","Thunnus tonggol","TUNAS","NERITIC","Scombridae","Scombroidei",1,1,0,0,1
@@ -252,7 +232,7 @@
 "MAE",NA,"Spotted eagle ray","Aigle de mer léopard","Aetobatus narinari","SHARKS","RAYS","Aetobatidae","Myliobatiformes",0,1,0,0,1
 "MAH",NA,"Hall's giant petrel","Pétrel de Hall","Macronectes halli","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",0,0,1,0,1
 "MAI",NA,"Antarctic giant petrel","Pétrel géant","Macronectes giganteus","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",0,0,1,0,1
-"MAK",NA,"Mako sharks","Taupes","Isurus spp","SHARKS","SHARKS","Lamnidae","Lamniformes",0,1,0,1,1
+"MAK",NA,"Mako sharks","Taupes","Isurus spp","SHARKS","SHARKS","Lamnidae","Lamniformes",0,1,1,1,1
 "MAN",NA,"Mantas, devil rays nei","Mantes, diables de mer nca","Mobulidae","SHARKS","RAYS","Mobulidae","Myliobatiformes",0,1,1,1,1
 "MAS",NA,"Pacific chub mackerel","Maquereau espagnol Pacifique","Scomber japonicus","OTHERS","OTHERS","Scombridae","Scombroidei",0,1,0,0,1
 "MAX",NA,"Mackerels nei","Maquereaux nca","Scombridae","OTHERS","OTHERS","Scombridae","Scombroidei",0,1,0,1,1
@@ -351,6 +331,7 @@
 "SBF",NA,"Southern bluefin tuna","Thon rouge du Sud","Thunnus maccoyii","TUNAS","TEMPERATE","Scombridae","Scombroidei",1,1,0,0,1
 "SBL",NA,"Bluntnose sixgill shark","Requin griset","Hexanchus griseus","SHARKS","SHARKS","Hexanchidae","Hexanchiformes",0,1,0,0,1
 "SCK",NA,"Kitefin shark","Squale liche","Dalatias licha","SHARKS","SHARKS","Dalatiidae","Squaliformes",0,1,0,0,1
+"SEK",NA,"South African fur seal","Otarie du Cap","Arctocephalus pusillus","OTHERS","OTHERS","OTARIIDAE","PINNIPEDIA",0,0,1,0,1
 "SFA",NA,"Indo-Pacific sailfish","Voilier indo-pacifique","Istiophorus platypterus","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",1,1,1,0,1
 "SHM",NA,"Shark mackerel","Thazard requin","Grammatorcynus bicarinatus","SHARKS","SHARKS","Scombridae","Scombroidei",0,1,0,0,1
 "SHW",NA,"Short-finned pilot whale","Globicéphale tropical","Globicephala macrorhynchus","OTHERS","CETACEANS","Delphinidae","Odontoceti",0,0,1,0,1
@@ -360,7 +341,7 @@
 "SKX",NA,"Sharks, rays, skates, etc. nei","Requins, raies, etc. nca","Elasmobranchii","SHARKS","SHARKS",NA,"Pisces miscellanea",0,NA,0,1,1
 "SLA",NA,"Spadenose shark","Requin épée","Scoliodon laticaudus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",0,1,0,0,1
 "SLT",NA,"Slender tuna","Thon élégant","Allothunnus fallai","OTHERS","OTHERS","Scombridae","Scombroidei",0,1,0,0,1
-"SMA",NA,"Shortfin mako","Taupe bleue","Isurus oxyrinchus","SHARKS","SHARKS","Lamnidae","Lamniformes",0,1,0,0,1
+"SMA",NA,"Shortfin mako","Taupe bleue","Isurus oxyrinchus","SHARKS","SHARKS","Lamnidae","Lamniformes",0,1,1,0,1
 "SMD",NA,"Smooth-hound","Émissole lisse","Mustelus mustelus","SHARKS","SHARKS","Triakidae","Carcharhiniformes",0,1,0,0,1
 "SNK",NA,"Snoek","Escolier","Thyrsites atun","OTHERS","OTHERS","Gempylidae","Scombroidei",0,0,0,0,1
 "SNS",NA,"Longspine snipefish","Bécasse de mer","Macroramphosus scolopax","OTHERS","OTHERS","Macroramphosidae","Syngnathiformes",0,1,0,0,1
@@ -385,6 +366,7 @@
 "SUU",NA,"Australian angelshark","Ange de mer australien","Squatina australis","SHARKS","SHARKS","Squatinidae","Squatiniformes",0,1,0,0,1
 "SWA",NA,"White seabream","Sar commun","Diplodus sargus","OTHERS","OTHERS","Sparidae","Percoidei",0,1,0,0,1
 "SWO",NA,"Swordfish","Espadon","Xiphias gladius","BILLFISH","BILLFISH","Xiphiidae","Scombroidei",1,1,0,0,1
+"SXX",NA,"Seals and sea lions NEI","Phoques et otaries NCA","Otariidae, Phocidae","OTHERS","OTHERS","OTARIIDAE,PHOCIDAE","PINNIPEDIA",0,0,1,1,1
 "TAL",NA,"Big-scale pomfret",NA,"Taractichthys longipinnis","OTHERS","OTHERS","Bramidae","Percoidei",0,1,0,0,1
 "TCR",NA,NA,NA,"Taractes rubescens","OTHERS","OTHERS","Bramidae","Percoidei",0,1,0,0,1
 "TCW",NA,"Hairtails nei","Poissons-sabres nca","Trichiurus spp","OTHERS","OTHERS","Trichiuridae","Scombroidei",0,0,0,1,1
