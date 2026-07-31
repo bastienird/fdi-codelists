@@ -1,10 +1,10 @@
-"code","uri","label_en","label_fr","is_dfob","is_afob"
-"AB",NA,"Abandonment","Abandon",1,1
-"CO",NA,"Consolidation","Consolidation",1,0
-"DE",NA,"Deployment","Mise à l'eau",1,1
-"DI",NA,"Discard","Rejet",1,1
-"LO",NA,"Loss","Perte",1,0
-"RE",NA,"Retrieval","Retrait",1,1
-"ST",NA,"Stranding","Échouage",1,0
-"VF",NA,"Visit with fishing","Visite avec pêche",1,1
-"VI",NA,"Visit without fishing","Visite sans pêche",1,1
+﻿"code","uri","label_en","label_fr","is_dfob","is_afob"
+"AB",,"Abandonment","Abandon",1,1
+"CO",,"Consolidation","Consolidation",1,0
+"DE",,"Deployment","Mise à l'eau",1,1
+"DI",,"Discard","Rejet",1,1
+"LO",,"Loss","Perte",1,0
+"RE",,"Retrieval","Retrait",1,1
+"ST",,"Stranding","Échouage",1,0
+"VF",,"Visit with fishing","Visite avec pêche",1,1
+"VI",,"Visit without fishing","Visite sans pêche",1,1

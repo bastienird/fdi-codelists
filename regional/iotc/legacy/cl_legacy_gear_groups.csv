@@ -1,16 +1,16 @@
-"code","uri","label_en","label_fr","is_aggregate"
-"BB",NA,"Baitboat","Canne",0
-"BB",NA,"Baitboat","Canne",1
-"GILL",NA,"Gillnet","Filet maillant",1
-"GILL",NA,"Gillnet","Filet maillant",0
-"HAND",NA,"Line","Lignes",0
-"LINE",NA,"Line","Lignes",0
-"LINE",NA,"Line","Lignes",1
-"LL",NA,"Longline","Palangre",0
-"LL",NA,"Longline","Palangre",1
-"OTHER",NA,"Other","Autres",0
-"OTHER",NA,"Other","Autres",1
-"PS",NA,"Purse Seine","Senne tournante",0
-"PSS",NA,"Purse Seine","Senne tournante",0
-"SUPP",NA,"Purse Seine","Senne tournante",0
-"TROL",NA,"Line","Lignes",0
+﻿"code","uri","label_en","label_fr","is_aggregate"
+"BB",,"Baitboat","Canne",0
+"BB",,"Baitboat","Canne",1
+"GILL",,"Gillnet","Filet maillant",1
+"GILL",,"Gillnet","Filet maillant",0
+"HAND",,"Line","Lignes",0
+"LINE",,"Line","Lignes",0
+"LINE",,"Line","Lignes",1
+"LL",,"Longline","Palangre",0
+"LL",,"Longline","Palangre",1
+"OTHER",,"Other","Autres",0
+"OTHER",,"Other","Autres",1
+"PS",,"Purse Seine","Senne tournante",0
+"PSS",,"Purse Seine","Senne tournante",0
+"SUPP",,"Purse Seine","Senne tournante",0
+"TROL",,"Line","Lignes",0

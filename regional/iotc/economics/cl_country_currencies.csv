@@ -1,4 +1,4 @@
-"country_code","country_name_en","country_name_fr","currency_code","currency_name_en","currency_name_fr"
+﻿"country_code","country_name_en","country_name_fr","currency_code","currency_name_en","currency_name_fr"
 "ABW","Aruba","Aruba","AWG","Aruban Florin","florin arubais"
 "AFG","Afghanistan","Afghanistan (l')","AFN","Afghani","afghani"
 "AGO","Angola","Angola (l')","AOA","Kwanza","kwanza"
@@ -10,7 +10,7 @@
 "ARG","Argentina","Argentine (l')","ARS","Argentine Peso","peso argentin"
 "ARM","Armenia","Arménie (l')","AMD","Armenian Dram","dram arménien"
 "ASM","American Samoa","Samoa américaines (les)","USD","US Dollar","dollar américain"
-"ATA","Antarctica","Antarctique (l')","NON",NA,NA
+"ATA","Antarctica","Antarctique (l')","NON",,
 "ATF","French Southern Territories (the)","Terres australes françaises (les)","EUR","Euro","euro"
 "ATG","Antigua and Barbuda","Antigua-et-Barbuda","XCD","East Caribbean Dollar","dollar des Caraïbes orientales"
 "AUS","Australia","Australie (l')","AUD","Australian Dollar","dollar australien"
@@ -195,7 +195,7 @@
 "PRK","Democratic People's Republic of Korea (the)","République populaire démocratique de Corée (la)","KPW","North Korean Won","won nord-coréen"
 "PRT","Portugal","Portugal (le)","EUR","Euro","euro"
 "PRY","Paraguay","Paraguay (le)","PYG","Guarani","guarani"
-"PSE","Palestine","Palestine","Non",NA,NA
+"PSE","Palestine","Palestine","Non",,
 "PYF","French Polynesia","Polynésie française (la)","XPF","CFP Franc","franc CFP"
 "QAT","Qatar","Qatar (le)","QAR","Qatari Rial","rial qatari"
 "REU","Réunion","Réunion (la)","EUR","Euro","euro"
@@ -206,7 +206,7 @@
 "SDN","Sudan (the)","Soudan (le)","SDG","Sudanese Pound","livre soudanaise"
 "SEN","Senegal","Sénégal (le)","XOF","CFA Franc BCEAO","franc CFA BCEAO"
 "SGP","Singapore","Singapour","SGD","Singapore Dollar","dollar de Singapour"
-"SGS","South Georgia and the South Sandwich Islands","Géorgie du Sud-et-Îles Sandwich du Sud","NON",NA,NA
+"SGS","South Georgia and the South Sandwich Islands","Géorgie du Sud-et-Îles Sandwich du Sud","NON",,
 "SHN","Ascension, Saint Helena and Tristan da Cunha","Ascension, Sainte-Hélène et Tristan da Cunha","SHP","Saint Helena Pound","livre de Sainte-Hélène"
 "SJM","Svalbard and Jan Mayen Islands (the)","Îles Svalbard-et-Jan Mayen (les)","NOK","Norwegian Krone","couronne norvégienne"
 "SLB","Solomon Islands","Îles Salomon (les)","SBD","Solomon Islands Dollar","dollar des îles Salomon"
@@ -235,7 +235,7 @@
 "TKL","Tokelau","Tokélaou (les)","NZD","New Zealand Dollar","dollar néo-zélandais"
 "TKM","Turkmenistan","Turkménistan (le)","TMT","Turkmenistan New Manat","manat turkmène"
 "TLS","Timor-Leste","Timor-Leste (le)","USD","US Dollar","dollar américain"
-"TON","Tonga","Tonga (les)","TOP",NA,NA
+"TON","Tonga","Tonga (les)","TOP",,
 "TTO","Trinidad and Tobago","Trinité-et-Tobago (la)","TTD","Trinidad and Tobago Dollar","dollar de Trinité-et-Tobago"
 "TUN","Tunisia","Tunisie (la)","TND","Tunisian Dinar","dinar tunisien"
 "TUR","Türkiye","Türkiye (la)","TRY","Turkish Lira","livre turque"

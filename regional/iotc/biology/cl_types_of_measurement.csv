@@ -1,3 +1,3 @@
-"code","uri","label_en","label_fr","default_unit"
-"LN",NA,"Length measurement","Longueur","cm"
-"WG",NA,"Weight measurement","Poids","kg"
+﻿"code","uri","label_en","label_fr","default_unit"
+"LN",,"Length measurement","Longueur","cm"
+"WG",,"Weight measurement","Poids","kg"

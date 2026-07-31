@@ -1,4 +1,4 @@
-"code","uri","label_en","label_fr"
-"NO",NA,"FOB not owned","Objet flottant sans propriétaire"
-"OW",NA,"FOB owned","Objet flottant avec propriétaire"
-"UN",NA,"Unknown","Inconnu"
+﻿"code","uri","label_en","label_fr"
+"NO",,"FOB not owned","Objet flottant sans propriétaire"
+"OW",,"FOB owned","Objet flottant avec propriétaire"
+"UN",,"Unknown","Inconnu"
